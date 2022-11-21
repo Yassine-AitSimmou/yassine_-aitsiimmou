@@ -1,0 +1,11 @@
+https://htmlcolorcodes.com/
+https://www.pexels.com/fr-fr/
+https://getbootstrap.com/
+https://www.dafont.com/
+
+
+packages:
+emmet
+pigments
+atom-live-server
+autosave-onchange
