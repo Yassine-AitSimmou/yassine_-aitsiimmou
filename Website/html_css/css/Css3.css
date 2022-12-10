@@ -1,0 +1,14 @@
+body{
+  color: white;
+  background-color: black;
+
+}
+.headlines{
+  color: red;
+}
+em{
+  color: yellow;
+}
+#h{
+  color: green;
+}
