@@ -1,0 +1,40 @@
+body{
+  color: white;
+  background-color: black;
+}
+@font-face{
+  font-family: "HelpMe";
+  src: url(../../Fonts/HelpMe.ttf);
+}
+.ex{
+  color: green;
+  font-style: italic;
+  font-family: HelpMe;
+  font-size: 70px;
+}
+.hey{
+  color: green;
+  font-size: 70px;
+  font-family: HelpMe;
+  font-style: italic;
+}
+.p1{
+  text-align: center;
+  font-size: 40px;
+  font-family: "arial black";
+}
+.p2{
+  text-align: center;
+  font-size: 30px;
+  font-family: "arial";
+}
+h1{
+  color: red;
+  font-family: 'HelpMe';
+  text-align: center;
+  font-size: 150px;
+}
+#div{
+  border-style: solid;
+  border-color: orange;
+}
