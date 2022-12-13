@@ -1,0 +1,35 @@
+*{
+    background-color:whitesmoke;
+    color: white;
+    background-image: url(../images/img3.png);
+    background-repeat:no-repeat;
+    background-position:center bottom;
+    background-attachment: fixed;
+
+}
+@font-face {
+    font-family: "Freedom";
+    src: url(../fonts/Freedom.ttf);
+}
+.p {
+    font-family: "Freedom";
+    border-style: solid;
+    border-color: red;
+    border-radius: 15px;
+    width: 300px;
+    box-sizing: border-box;
+    padding: 50px;
+    text-align: left;
+    color:black;
+    font-size: 50px;
+}
+h1{
+    color: black;
+    margin: 25px 50px 75px 380px;
+}
+div,h2 {
+    color: black;
+    width: 200px;
+    margin: auto;
+    border: 1px solid red;
+  }
